@@ -54,3 +54,6 @@ form input.equal{
 .calculator form .operators{
     color:rgb(199, 35, 35);
 }
+.buttons{
+    display: flex;
+}
